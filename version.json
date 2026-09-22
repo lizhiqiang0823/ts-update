@@ -1,8 +1,6 @@
 {
     "latest_version": "V2.0.3",
     "download_url": "https://gitee.com/lihuaxu/ts-update/releases/download/V2.0.3/TS研发版上位机%20V2.0.3.exe",
-    "release_notes": "1.校验和计算器
-2.增量位置模式
-3.hex合并",
+    "release_notes": "1.校验和计算器\n2.增量位置模式\n3.hex合并",
     "release_date": "2026-09-22"
 }
