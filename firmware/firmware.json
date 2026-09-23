@@ -1,0 +1,8 @@
+{
+  "latest_version": "V1.0.0",
+  "zip_url": "https://ghproxy.net/https://raw.githubusercontent.com/lizhiqiang0823/ts-update/main/firmware/firmware.zip",
+  "release_date": "2025-01-15",
+  "hardware": "HW-Rev-A",
+  "iteration": "IT-2025Q1",
+  "notes": "首个固件版本"
+}
