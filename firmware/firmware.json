@@ -1,8 +1,9 @@
 {
-  "latest_version": "31",
+  "latest_version": "V1.2.6",
   "zip_url": "https://ghproxy.net/https://raw.githubusercontent.com/lizhiqiang0823/ts-update/main/firmware/firmware.zip",
-  "release_date": "2026.09.23",
-  "hardware": "HW-Rev-A",
-  "iteration": ">30",
-  "notes": "首个线上固件版本"
+  "release_date": "2026-09-23",
+  "hardware": "HW-Rev-C",
+  "iteration": "IT-2025Q4",
+  "notes": "fill update notes here",
+  "sha256": "e5c220e6cdeeb7de8fc7ee8d8e109d5d8f1f118051dd853941cf6fe7f654f2a2"
 }
