@@ -1,6 +1,6 @@
 {
-    "latest_version": "V1.0.5",
-    "download_url": "https://gitee.com/lihuaxu/ts-update-client/releases/download/V1.0.5/TS上位机%20V1.0.5.exe",
-    "release_notes": "初始版本",
-    "release_date": "2026-09-21"
+    "latest_version": "V1.0.7",
+    "download_url": "https://gitee.com/lihuaxu/ts-update-client/releases/download/V1.0.7/TS_Client_V1.0.7.exe",
+    "release_notes": "1.增加滑块定位/n2.固件版本更新检测",
+    "release_date": "2026-09-24"
 }
