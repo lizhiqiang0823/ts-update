@@ -1,6 +1,6 @@
 {
-    "latest_version": "V1.0.7",
-    "download_url": "https://github.com/lizhiqiang0823/ts-update/releases/download/V1.0.7/TS_Client_V1.0.7.exe",
-    "release_notes": "1. 增加滑块定位\n2. 固件版本更新检测",
-    "release_date": "2026-09-24"
+    "latest_version": "V1.0.8",
+    "download_url": "https://github.com/lizhiqiang0823/ts-update/releases/download/V1.0.8/TS_Client_V1.0.8.exe",
+    "release_notes": "1.滑块定位tab加标定零点按钮\n2.增加一个校准tab",
+    "release_date": "2026-09-27"
 }
