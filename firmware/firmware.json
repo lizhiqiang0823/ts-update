@@ -1,9 +1,9 @@
 {
-  "latest_version": "V1.2.6",
+  "latest_version": "V32",
   "zip_url": "https://ghproxy.net/https://raw.githubusercontent.com/lizhiqiang0823/ts-update/main/firmware/firmware.zip",
-  "release_date": "2026-09-23",
+  "release_date": "2026-10-05",
   "hardware": "HW-Rev-C",
   "iteration": "IT-2025Q4",
   "notes": "fill update notes here",
-  "sha256": "e5c220e6cdeeb7de8fc7ee8d8e109d5d8f1f118051dd853941cf6fe7f654f2a2"
+  "sha256": "c50a7781e9299193ef55adc322f5ba024ce1c7b70ae7293a3436e04542f22dde"
 }
