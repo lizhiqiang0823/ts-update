@@ -2,8 +2,8 @@
   "latest_version": "V32",
   "zip_url": "https://ghproxy.net/https://raw.githubusercontent.com/lizhiqiang0823/ts-update/main/firmware/firmware.zip",
   "release_date": "2026-10-05",
-  "hardware": "HW-Rev-C",
-  "iteration": "IT-2025Q4",
-  "notes": "fill update notes here",
+  "hardware": "V2.0",
+  "iteration": "V1.9",
+  "notes": "1.线上首版，支持V2.0硬件版本，适配V1.9迭代。\n2.修复了部分用户反馈的连接不稳定问题。\n3.优化了系统性能，提高了响应速度。\n4.更新了安全补丁，增强了设备的安全性。",
   "sha256": "c50a7781e9299193ef55adc322f5ba024ce1c7b70ae7293a3436e04542f22dde"
 }
