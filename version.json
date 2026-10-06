@@ -1,6 +1,6 @@
 {
-    "latest_version": "V2.0.9",
-    "download_url": "https://github.com/lizhiqiang0823/ts-update/releases/download/V2.0.9/TS_Dev_V2.0.9.exe",
-    "release_notes": "1.调试指令更新\n2.固件升级优化",
-    "release_date": "2026-10-05"
+    "latest_version": "V2.0.10",
+    "download_url": "https://github.com/lizhiqiang0823/ts-update/releases/download/V2.0.10/TS_Dev_V2.0.10.exe",
+    "release_notes": "1.增加示波器\n2.增加FOC监控",
+    "release_date": "2026-10-06"
 }
