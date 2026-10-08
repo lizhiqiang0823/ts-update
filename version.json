@@ -1,6 +1,6 @@
 {
-    "latest_version": "V2.0.11",
-    "download_url": "https://github.com/lizhiqiang0823/ts-update/releases/download/V2.0.11/TS_Dev_V2.0.11.exe",
-    "release_notes": "1.滑块增加0x64 0x65 0x5B模式\n2.FOC监控增加0x2E模式",
-    "release_date": "2026-10-07"
+    "latest_version": "V2.0.14",
+    "download_url": "https://github.com/lizhiqiang0823/ts-update/releases/download/V2.0.14/TS_Dev_V2.0.14.exe",
+    "release_notes": "1.UI优化\n2.增加指令\n3.增加重复定位TAB",
+    "release_date": "2026-10-08"
 }
