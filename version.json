@@ -1,6 +1,6 @@
 {
-    "latest_version": "V2.0.14",
-    "download_url": "https://github.com/lizhiqiang0823/ts-update/releases/download/V2.0.14/TS_Dev_V2.0.14.exe",
-    "release_notes": "1.UI优化\n2.增加指令\n3.增加重复定位TAB",
+    "latest_version": "V2.0.15",
+    "download_url": "https://github.com/lizhiqiang0823/ts-update/releases/download/V2.0.15/TS_Dev_V2.0.15.exe",
+    "release_notes": "1.更新滑块定位0x6C模式读取位置不准问题",
     "release_date": "2026-10-08"
 }
