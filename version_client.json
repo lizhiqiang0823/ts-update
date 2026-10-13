@@ -1,6 +1,6 @@
 {
-    "latest_version": "V1.0.13",
-    "download_url": "https://github.com/lizhiqiang0823/ts-update/releases/download/V1.0.13/TS_Client_V1.0.13.exe",
-    "release_notes": "1.UI优化",
-    "release_date": "2026-10-08"
+    "latest_version": "V1.0.14",
+    "download_url": "https://github.com/lizhiqiang0823/ts-update/releases/download/V1.0.14/TS_Client_V1.0.14.exe",
+    "release_notes": "1.1.修复 YModem 升级速度慢及超时退出的问题\n2.发送完成后，自动关闭弹窗",
+    "release_date": "2026-10-13"
 }
